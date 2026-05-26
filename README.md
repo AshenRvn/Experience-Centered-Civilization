@@ -1,3 +1,4 @@
+![alt text](image.png)
 # 体验中心文明：一份后劳动时代的意义框架提案
 
 ## The Experience-Centered Civilization: A Meaning Framework for the Post-Labor Era
