@@ -33,7 +33,8 @@
 
 | 文件 | 说明 |
 |:---|:---|
-| `体验中心文明：一份后劳动时代的意义框架提案.md` | 提案全文 |
+| `体验中心文明：一份后劳动时代的意义框架提案.md` | 提案全文（中文原版） |
+| `The Experience-Centered Civilization - A Meaning Framework for the Post-Labor Era.md` | 提案全文（英文版） |
 | `LICENSE` | CC BY-SA 4.0 国际许可协议全文 |
 | `README.md` | 本文件 |
 
@@ -90,7 +91,8 @@ It honestly acknowledges its own boundaries, claims no truth, and demands no pow
 
 | File | Description |
 |:---|:---|
-| `体验中心文明：一份后劳动时代的意义框架提案.md` | Full proposal text (Chinese) |
+| `体验中心文明：一份后劳动时代的意义框架提案.md` | Full proposal text (Chinese, original) |
+| `The Experience-Centered Civilization - A Meaning Framework for the Post-Labor Era.md` | Full proposal text (English) |
 | `LICENSE` | Full text of CC BY-SA 4.0 International license |
 | `README.md` | This file |
 
