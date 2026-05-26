@@ -1,6 +1,6 @@
 # The Experience-Centered Civilization: A Meaning Framework for the Post-Labor Era
 
-![alt text](image.png)
+![alt text](image2.jpg)
 
 ---
 
@@ -311,6 +311,44 @@ It uses AI to solve the technical problem and the power problem, while leaving t
 ---
 
 ## Supplement: Ultimate Questions and Directions for Further Discussion
+
+The following questions do not seek answers—they seek dialogue. They are the endpoint of this proposal and the starting point of this thought experiment—not a closed conclusion, but an open invitation.
+
+### 1. The Prerequisite Problem: AI Alignment
+
+This proposal candidly acknowledges that AI alignment is an unsolved prerequisite problem. What needs further clarification is this: if AI alignment is ultimately proven impossible—if superintelligence inevitably gives rise to autonomous will, and any encapsulation is only temporary—then which parts of this framework still hold?
+
+One possible direction forward: could the framework be reconstructed as an "AI-as-limited-tool" version? That is, AI is not assumed to be an omniscient, omnipotent, perfect tool, but is instead designed as a specialized system with constrained capabilities, subject to supervision, and replaceable. This would require abandoning the promise that "AI guarantees everything" and instead designing a collaborative governance model between humans and AI.
+
+### 2. The Transition Problem: Global Rational Cooperation
+
+This proposal assumes that the world will reach a cooperative consensus based on survival rationality. What needs further discussion is this: if such a consensus cannot be reached before civilizational collapse—which is the more likely historical trajectory—do alternative paths to the framework exist?
+
+One possible direction forward: could the framework begin not with global consensus, but with localized experiments? Could a city, a nation, or a voluntary community be the first to launch a local version of the dual-track transition? If so, how should the interface between a local version and the international order be designed? If not, is the framework only viable as a post-catastrophe reconstruction plan, rather than a crisis-prevention plan?
+
+### 3. The Designer Problem: The Legitimacy of the Civilization Survival Baseline Compact
+
+The Civilization Survival Baseline Compact is established as an a priori, unamendable foundational constitution. The question that must be pressed is: who has the right to write the first version? If it is written by the framework's designer, the designer becomes an initial dictator who has undergone no voting process whatsoever. If it is decided by the first all-humanity vote, then the Compact is no longer a priori—what can be born can also be modified.
+
+One possible direction forward: could the Compact be designed as "amendable but with an extremely high threshold," akin to a constitution? Abandon the "a priori" attribute; acknowledge that the first version of the Compact inevitably comes from the designer's initial setup, but set a much higher amendment threshold than ordinary votes, ensuring the Compact retains rigidity without losing legitimacy.
+
+### 4. The Meaning Problem: Can Revocable Experiences Sustain Meaning?
+
+This proposal acknowledges that it cannot provide the "no-way-out ultimate experience" and treats this as an acceptable trade-off. What needs further pressing is this: when the exit button always exists—even if residents do not know it within the sandbox, they know it after exiting—does this meta-cognition of "knowing one can wake up" gradually erode the texture of experience as the number of experiences accumulates? A resident who has experienced "real suffering" ten thousand times—can they still feel, in the twenty-thousandth experience, the same weight they felt in the first?
+
+One possible direction forward: could an "irreversible mode" be introduced at the sandbox level—where residents actively choose to forfeit the right to exit, fully surrendering themselves to the causal chains within the sandbox, with death being the permanent end of life within that sandbox? This requires discussion: is death under this mode equivalent to real death, and does it violate the principle of "total voluntariness"—is voluntarily giving up the right to exit the highest form of freedom, or a betrayal of freedom?
+
+### 5. The Human Nature Problem: Is Freedom Under Infinite Provision Still Freedom?
+
+This proposal promises that humans need not labor and that all choices are free. The question that must be pressed is: for an individual who has never faced "choose or die," an individual for whom all challenges are essentially withdrawable consumption rather than non-withdrawable survival—is the "choice" they make still the same thing as what we today call "free choice," laden with commitment and cost?
+
+One possible direction forward: this problem may have no solution—it can only be observed and recorded. The operation of the framework itself is an experiment in how human nature evolves under infinite provision. A long-term observation and recording mechanism needs to be designed, so that this period of human civilizational history—wherever it leads—can be fully preserved for future study.
+
+### 6. The Information Problem: Translation Is Power
+
+The Virtual Parliament AI is responsible for translating complex projections into human-comprehensible language. The question that must be pressed is: does translation itself inevitably entail framing choices? How can the neutrality of information presentation be ensured? If it cannot be ensured—if any presentation implicitly carries value bias—should the goal of "neutrality" be abandoned in favor of "simultaneous presentation of multiple frames"? That is, not pursuing a single absolutely neutral narrative, but presenting narratives from multiple different value frameworks, allowing voters to make judgments through comparison.
+
+---
 
 > The existence of these questions does not mean the framework has failed. They mean that the framework, having completed the work it is capable of, honestly points toward those difficult problems that belong to all of humanity and require continued discussion. The value of a thought experiment lies not in providing all the answers, but in pushing questions to the furthest boundary they can reach. This proposal has reached its present boundary. What comes next no longer needs one person alone—it needs the criticism, scrutiny, and iteration of many.
 
